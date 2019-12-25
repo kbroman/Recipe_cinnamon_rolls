@@ -7,7 +7,7 @@ Crocker recipe](https://www.bettycrocker.com/recipes/old-fashioned-cinnamon-roll
 
 #### Rolls
 
-- 3 1/2 to 4 cups Gold Medal™ all-purpose flour
+- 3 1/2 to 4 cups all-purpose flour
 - 1/3 cup granulated sugar
 - 1 teaspoon salt
 - 2 packages regular or fast-acting dry yeast (1/2 oz = 4 1/2 teaspoons)
